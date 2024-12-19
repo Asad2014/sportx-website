@@ -4,7 +4,7 @@ import React from 'react';
 const Hero = () => {
   return (
     <section
-      className="hero bg-cover bg-center relative h-screen"
+      className="hero bg-cover bg-center bg-no-repeat relative h-screen"
       style={{
         backgroundImage: "url(/backgroundimage.jpg)",
       }}
